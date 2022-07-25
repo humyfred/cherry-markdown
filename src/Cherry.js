@@ -198,6 +198,9 @@ export default class Cherry extends CherryStatic {
 
     this.cherryDomReiszeObserver = observer;
   }
+	
+  test() {
+  }
 
   /**
    * 切换编辑模式

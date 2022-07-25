@@ -94,6 +94,9 @@ export default class Cherry extends CherryStatic {
     this.init();
   }
 
+   test() {
+   }
+
   /**
    * 初始化工具栏、编辑区、预览区等
    * @private
